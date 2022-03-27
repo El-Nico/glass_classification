@@ -1,0 +1,14 @@
+use cross validation for all models due to small dataset size
+use ravel in the prediction
+do pca to reduce  dimensionality
+
+add early stopping and best model to nn
+
+adaboost classifier https://www.kaggle.com/code/zwartfreak/glass-classification-accuracy-100
+
+
+so right now my next steps are, 
+implementing cv to every result
+dataframing every result and comparing their accuracy https://www.kaggle.com/code/zwartfreak/glass-classification-accuracy-100
+then going with random forest,
+then optimizing the random forest using cv https://stackoverflow.com/questions/51944281/how-to-correctly-implement-stratifiedkfold-with-randomizedsearchcv
