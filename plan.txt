@@ -12,3 +12,6 @@ implementing cv to every result
 dataframing every result and comparing their accuracy https://www.kaggle.com/code/zwartfreak/glass-classification-accuracy-100
 then going with random forest,
 then optimizing the random forest using cv https://stackoverflow.com/questions/51944281/how-to-correctly-implement-stratifiedkfold-with-randomizedsearchcv
+
+best accuracy
+https://stackoverflow.com/questions/60896416/tensorflow-keras-model-how-to-get-the-best-score-from-a-history-object
